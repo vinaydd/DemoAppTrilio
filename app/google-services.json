@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1031102812478",
+    "firebase_url": "https://twiliodemo-81444.firebaseio.com",
+    "project_id": "twiliodemo-81444",
+    "storage_bucket": "twiliodemo-81444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031102812478:android:117d2a20ea638fa05f5c6f",
+        "android_client_info": {
+          "package_name": "com.example.demoapptrilio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031102812478-nju7mtv9hoouqripvrleh65ak0rbis7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoTg4wJhaZAowxwAB4BxGwL5hcycOcMX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031102812478-nju7mtv9hoouqripvrleh65ak0rbis7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
